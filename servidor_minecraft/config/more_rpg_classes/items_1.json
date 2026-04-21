@@ -1,0 +1,414 @@
+{
+  "weapons": {
+    "winters_blade_sword": {
+      "attack_damage": 5.5,
+      "attack_speed": -2.2,
+      "attributes": []
+    },
+    "meteorite_witcher_sword": {
+      "attack_damage": 3.2,
+      "attack_speed": -2.2,
+      "attributes": []
+    },
+    "diamond_witcher_sword": {
+      "attack_damage": 5.0,
+      "attack_speed": -2.2,
+      "attributes": []
+    },
+    "guardian_knuckle": {
+      "attack_damage": 0.0,
+      "attack_speed": 0.0,
+      "attributes": []
+    },
+    "stone_berserker_axe": {
+      "attack_damage": 9.0,
+      "attack_speed": -3.2,
+      "attributes": []
+    },
+    "netherite_knuckle": {
+      "attack_damage": 5.5,
+      "attack_speed": -1.4,
+      "attributes": []
+    },
+    "golden_berserker_axe": {
+      "attack_damage": 7.0,
+      "attack_speed": -3.2,
+      "attributes": []
+    },
+    "meteorite_silver_witcher_sword": {
+      "attack_damage": 4.2,
+      "attack_speed": -2.2,
+      "attributes": []
+    },
+    "stone_knuckle": {
+      "attack_damage": 2.5,
+      "attack_speed": -1.4,
+      "attributes": []
+    },
+    "steel_witcher_sword": {
+      "attack_damage": 4.5,
+      "attack_speed": -2.2,
+      "attributes": []
+    },
+    "aerondight_sword": {
+      "attack_damage": 7.5,
+      "attack_speed": -2.2,
+      "attributes": []
+    },
+    "netherite_berserker_axe": {
+      "attack_damage": 10.0,
+      "attack_speed": -3.2,
+      "attributes": []
+    },
+    "ultimatum_sword": {
+      "attack_damage": 5.5,
+      "attack_speed": -2.2,
+      "attributes": []
+    },
+    "golden_knuckle": {
+      "attack_damage": 1.5,
+      "attack_speed": -1.4,
+      "attributes": []
+    },
+    "iron_knuckle": {
+      "attack_damage": 3.5,
+      "attack_speed": -1.4,
+      "attributes": []
+    },
+    "soul_berserker_axe": {
+      "attack_damage": 11.0,
+      "attack_speed": -3.2,
+      "attributes": []
+    },
+    "dark_steel_witcher_sword": {
+      "attack_damage": 6.5,
+      "attack_speed": -2.2,
+      "attributes": []
+    },
+    "dark_iron_witcher_sword": {
+      "attack_damage": 5.5,
+      "attack_speed": -2.2,
+      "attributes": []
+    },
+    "iron_witcher_sword": {
+      "attack_damage": 4.0,
+      "attack_speed": -2.2,
+      "attributes": []
+    },
+    "bloody_knuckle": {
+      "attack_damage": 0.0,
+      "attack_speed": 0.0,
+      "attributes": []
+    },
+    "golden_witcher_sword": {
+      "attack_damage": 2.0,
+      "attack_speed": -2.2,
+      "attributes": []
+    },
+    "silver_witcher_sword": {
+      "attack_damage": 2.2,
+      "attack_speed": -2.2,
+      "attributes": []
+    },
+    "thunder_berserker_axe": {
+      "attack_damage": 10.0,
+      "attack_speed": -3.2,
+      "attributes": []
+    },
+    "diamond_knuckle": {
+      "attack_damage": 4.5,
+      "attack_speed": -1.4,
+      "attributes": []
+    },
+    "flint_berserker_axe": {
+      "attack_damage": 7.0,
+      "attack_speed": -3.2,
+      "attributes": []
+    },
+    "frozen_berserker_axe": {
+      "attack_damage": 0.0,
+      "attack_speed": 0.0,
+      "attributes": []
+    },
+    "netherite_witcher_sword": {
+      "attack_damage": 6.0,
+      "attack_speed": -2.2,
+      "attributes": []
+    },
+    "diamond_berserker_axe": {
+      "attack_damage": 9.0,
+      "attack_speed": -3.2,
+      "attributes": []
+    },
+    "wooden_knuckle": {
+      "attack_damage": 1.5,
+      "attack_speed": -1.4,
+      "attributes": []
+    },
+    "iron_berserker_axe": {
+      "attack_damage": 9.0,
+      "attack_speed": -3.2,
+      "attributes": []
+    },
+    "legendary_golden_knuckle": {
+      "attack_damage": 0.0,
+      "attack_speed": 0.0,
+      "attributes": []
+    }
+  },
+  "armor_sets": {
+    "phasleb": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:haste",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "spell_power:arcane",
+            "value": 0.15,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 4,
+        "attributes": [
+          {
+            "id": "spell_power:haste",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "spell_power:arcane",
+            "value": 0.15,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "spell_power:haste",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "spell_power:arcane",
+            "value": 0.15,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:haste",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "spell_power:arcane",
+            "value": 0.15,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    },
+    "adept": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 1,
+        "attributes": []
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "spell_power:critical_damage",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "attributes": []
+      },
+      "feet": {
+        "armor": 1,
+        "attributes": []
+      }
+    },
+    "northling": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:critical_chance",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "spell_power:critical_chance",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:critical_chance",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:critical_chance",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    },
+    "oriene": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:haste",
+            "value": 0.025,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "spell_power:arcane",
+            "value": 1.5,
+            "operation": "ADDITION"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.025,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:haste",
+            "value": 0.025,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:haste",
+            "value": 0.025,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    },
+    "witcher": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": []
+      },
+      "chest": {
+        "armor": 4,
+        "attributes": [
+          {
+            "id": "spell_power:critical_damage",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 3,
+        "attributes": []
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": []
+      }
+    },
+    "wildling": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:critical_chance",
+            "value": 0.01,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:critical_chance",
+            "value": 0.01,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:critical_chance",
+            "value": 0.01,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:critical_chance",
+            "value": 0.01,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    }
+  }
+}
